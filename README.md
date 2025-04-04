@@ -1,5 +1,5 @@
 # sensitive-analysis
-.
+
 Climate Data Sensitivity Analysis
 This project performs a sensitivity analysis on daily climate data from Delhi, specifically focusing on the relationship between mean temperature and various climatic factors. It uses a linear regression model to predict the mean temperature based on humidity, wind speed, and atmospheric pressure, and applies Sobol sensitivity analysis to assess the impact of these factors on the temperature predictions.
 
