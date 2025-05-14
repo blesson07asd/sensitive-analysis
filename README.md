@@ -33,4 +33,4 @@ Clone the repository to your local machine.
 
 Install required R packages if not already installed.
 
-Run the R script to perform the analysis.
+Run the all the R script to perform the analysis.
