@@ -19,7 +19,7 @@ sensitivity - For Sobol sensitivity analysis
  
 randtoolbox  - For generating Sobol sequences
 
-ggplot2 - For data visua lization
+ggplot2 - For data visualization
 
 Files:
 DailyDelhiClimateTest.csv: The raw daily climate data (not included in the repository).
