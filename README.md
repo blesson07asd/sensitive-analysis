@@ -16,8 +16,8 @@ Requirements:
 dplyr - For data manipulation
 
 sensitivity - For Sobol sensitivity analysis
-
-randtoolbox - For generating Sobol sequences
+ 
+randtoolbox  - For gene rating Sobol sequences
 
 ggplot2 - For data visualization
 
