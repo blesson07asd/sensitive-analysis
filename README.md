@@ -17,7 +17,7 @@ dplyr - For data manipulation
 
 sensitivity - For Sobol sensitivity analysis
  
-randtoolbox  - For gene rating Sobol sequences
+randtoolbox  - For generating Sobol sequences
 
 ggplot2 - For data visualization
 
