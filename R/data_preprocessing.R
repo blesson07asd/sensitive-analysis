@@ -1,5 +1,5 @@
 library(dplyr)
-#library(tidyr)
+library(tidyr)
 library(sensitivity)
 library(randtoolbox)
 data <- read.csv("DailyDelhiClimateTest.csv", stringsAsFactors = FALSE)
